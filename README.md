@@ -1,2 +1,2 @@
-# SIM-Tempe
-Sistem infomasi Manajemen Tempe
+# SIMPEN
+Sistem infomasi Pencatatan Prodak Masuk , Keluar dan Lapora
