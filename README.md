@@ -1,2 +1,2 @@
 # SIMPEN
-Sistem infomasi Pencatatan Prodak Masuk , Keluar dan Lapora
+Sistem Pencatatan Prodak Masuk , Keluar dan Lapora
